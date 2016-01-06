@@ -1,0 +1,25 @@
+{
+  "name": "jokesearch",
+  "version": "1.0.3",
+  "description": "A package that retruns a joke when asked",
+  "main": "joke.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+	"joke searcher"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zein-Fakhreddine/Joke-Search.git"
+  },
+  "dependencies":{
+	"request": ">= 2.67.0"
+  },
+  "author": "NPM joke Zein Fakhreddine <Zein.Fakhreddine@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zein-Fakhreddine/Joke-Search/issues"
+  },
+  "homepage": "https://github.com/Zein-Fakhreddine/Joke-Search#readme"
+}

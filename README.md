@@ -14,6 +14,7 @@ Example:
 var joke = require('jokesearch');
 joke.getJoke(function(joke){
    console.log(joke);
+   //Example output: I wondered why the baseball was getting bigger. Then it hit me.
 });
 ```
 
